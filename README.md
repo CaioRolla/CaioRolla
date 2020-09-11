@@ -6,7 +6,7 @@
 
 
 - 🏢 I'm currently working at **Worthix**
-- ⚙️ I use daily: `TypeScript`, `Angular`, `D3.js`, `NodeJS` and some more stuff
+- ⚙️ I use daily: `TypeScript`, `Angular`, `D3.js`, `NodeJS` and some other stuff
 - 📫 Reach me: [twitter.com/caio_rolla](https://twitter.com/caio_rolla)
 
 ## Some of my Github Public Stats
