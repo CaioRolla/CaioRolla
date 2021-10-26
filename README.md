@@ -8,6 +8,7 @@
 - ⚙️ I use daily: `TypeScript`, `Angular`, `D3.js`, `NodeJS` and some other stuff
 - 📫 Reach me: [twitter.com/caio_rolla](https://twitter.com/caio_rolla)
 - 📚 My packages: [browser-user-data](https://www.npmjs.com/package/browser-user-data), [human-pretty-date](https://www.npmjs.com/package/human-pretty-date), [angular-news-api](https://www.npmjs.com/package/angular-news-api)
+- 💵 Side Projects: [beew.io](https://beew.io), [ajudar.io](https://ajudar.io)
 
 <!-- ## Some of my Github Public Stats
 
