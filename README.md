@@ -8,7 +8,7 @@
 - ⚙️ I use daily: `TypeScript`, `Angular`, `React`, `D3.js`, `Node`, `NextJS`, `NestJS` and other stuff...
 - 📫 Reach me: [twitter.com/caio_rolla](https://twitter.com/caio_rolla)
 - 📚 My packages: [beew.io SDK](https://www.npmjs.com/package/beew)
-- 💵 Side Projects: [listaideal.com.br](https://listaideal.com.br), [beew.io](https://beew.io)
+- 💵 Side Projects: [listaideal.com.br](https://listaideal.com.br)
 
 <!-- ## Some of my Github Public Stats
 
